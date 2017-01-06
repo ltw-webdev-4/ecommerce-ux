@@ -33,8 +33,8 @@ Create 1 InVision board with the following pieces of information:
 4. Sitemap
 5. Visual design: type, colours, sample components (buttons, cards, etc.)
 6. Wireframes: home page, inside page, application form page
-  <br>*These should be high-fidelity with some real text—paper is okay but use rulers*
-  <br>These are the pages we’ll eventually code
+  *These should be high-fidelity with some real text—paper is okay but use rulers*
+  These are the pages we’ll eventually code
 
 ---
 
