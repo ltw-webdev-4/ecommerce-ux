@@ -61,8 +61,9 @@ Below is the rubric of expectations for this project. **You will be assigned a l
 1. Create a board on InVision with all the content
 2. Submit the InVision board URL to Canvas
 
+*Example URL:*
+
 ```
-Example URL:
 https://projects.invisionapp.com/boards/MX1IZXSBQ3AY7
 ```
 
