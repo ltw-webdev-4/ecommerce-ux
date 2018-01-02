@@ -37,12 +37,12 @@ The subject matter of the eCommerce website is completely your choice. I’d pre
 
 For the UX, create 1 InVision board with the following pieces of information:
 
-1. **Target audience:** Who will by your products? Be specific. Personas are encouraged.
+1. **Target audience:** Who will use your website? Be specific. Personas are encouraged.
 2. **Website goals:** What is your website trying to do? How is it trying to do that?
 3. **Competitive analysis:** Find competitors; What do they do well? What do they do poorly?
-4. **Sitemap:** Include all the possible pages that an eCommerce website would need—but we’ll only be coding a few of them
+4. **Sitemap:** Include all the possible pages that an eCommerce website would need—but we’ll only be coding a few of them—show how they connect to each other
 5. **A logo:** Must work well (or adapt to) these sizes: `256px`, `64px`, `32px`, `16px`
-6. **Visual design:** Type, colours, sample components (buttons, cards, etc.); Sample patterns give you coding direction
+6. **Visual design:** Type & type scale, colours, sample components (buttons, cards, etc.), consider accessibility & performance when making decisions; Do some sample patterns in Illustrator/Photoshop/XD to give your coding direction
 7. **Wireframes:** Home page, product list page, product details page (which *you* will not be coding), checkout form page
   *These should be high-fidelity with some real text—paper is okay but use rulers*
 
@@ -81,4 +81,4 @@ https://projects.invisionapp.com/boards/MX1IZXSBQ3AY7
 
 ### Discuss with the teacher
 
-During the class that this is due you we’ll show the teacher and discuss with them what you’ve created.
+During the class that this is due you will show the teacher and discuss with them what you’ve created.
