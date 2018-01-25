@@ -2,7 +2,7 @@
 summary: 'Create all the stuff Jed would expect from you before starting to write any code.'
 time: '8 hours'
 deliverables: '1 InVision board'
-submit: 'https://algonquin.instructure.com/courses/847181/assignments/7464325'
+submit: 'https://algonquin.instructure.com/courses/881406/assignments/7974744'
 ---
 
 # eCommerce UX
