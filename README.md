@@ -60,10 +60,10 @@ Below is the rubric of expectations for this project. **You will be assigned a l
 | **Sitemap** | Incomplete or missing | Has only the pages we’re coding | Lots of important pages missing | Complete, organized and contains all necessary pages |
 | **Logo** | Incomplete or missing | Only works well at one size | Small sizes are inconsistent with large sizes | Cohesive & uniform for all sizes, even if different |
 | **Visual design** | Incomplete or missing | Missing important components or poorly executed | Average, could be more cohesive & considered | Cohesive & appropriate with a good sample of components |
-| **Home page wireframe** | Incomplete or missing | Missing important pieces or poorly executed | Complete but not detailed enough | Complete, detailed, and a good representation to code from |
-| **Product list page wireframe** | Incomplete or missing | Missing important pieces or poorly executed | Complete but not detailed enough | Complete, detailed, and a good representation to code from |
-| **Product details page wireframe** | Incomplete or missing | Missing important pieces or poorly executed | Complete but not detailed enough | Complete, detailed, and a good representation to code from |
-| **Checkout form page wireframe** | Incomplete or missing | Missing important pieces or poorly executed | Complete but not detailed enough | Complete, detailed, and a good representation to code from |
+| **Home page wireframe** | Incomplete or missing | Missing important pieces or poorly executed | Complete but not detailed enough | Complete, detailed, responsive, and a good representation to code from |
+| **Product list page wireframe** | Incomplete or missing | Missing important pieces or poorly executed | Complete but not detailed enough | Complete, detailed, responsive, and a good representation to code from |
+| **Product details page wireframe** | Incomplete or missing | Missing important pieces or poorly executed | Complete but not detailed enough | Complete, detailed, responsive, and a good representation to code from |
+| **Checkout form page wireframe** | Incomplete or missing | Missing important pieces or poorly executed | Complete but not detailed enough | Complete, detailed, responsive, and a good representation to code from |
 | **Professionalism** | Rushed & poorly done | Okay | Average, could use more time spent | Clearly demonstrated lots of effort and consideration |
 
 ---
