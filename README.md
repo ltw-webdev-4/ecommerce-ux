@@ -1,5 +1,5 @@
 ---
-summary: 'Create all the stuff Jed would expect from you before starting to write any code.'
+summary: 'Create all the stuff IxD before you starting to write any code.'
 time: '8 hours'
 deliverables: '1 InVision board'
 submit: 'https://algonquin.instructure.com/courses/881406/assignments/7974744'
@@ -17,7 +17,7 @@ In the second half of the term we’ll take all those common components and use 
 
 And finally, near the end of the term, *you’ll hand your pattern library off to one of your class peers who will create the **product details page**.*
 
-Before we can get started on that stuff we need to do the UX—you’ll be graded on the completeness of your UX as Jed would expect.
+Before we can get started on that stuff we need to do the UX—you’ll be graded on the completeness of your UX as expected in you IxD class.
 
 ## The approach & idea
 
