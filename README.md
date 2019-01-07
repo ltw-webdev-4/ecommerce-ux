@@ -13,9 +13,9 @@ submit: 'https://algonquin.instructure.com/courses/881406/assignments/7974744'
 
 We’ll be taking the approach of making a **pattern library**, where each week we’ll be designing different components of the website.
 
-In the second half of the term we’ll take all those common components and use them to build out a **home page**, a **product list page**, and a **checkout form page**.
+In the second half of the term we’ll take all those common components and use them to build out a **home page**, and a **product list page**.
 
-And finally, near the end of the term, *you’ll hand your pattern library off to one of your class peers who will create the **product details page**.*
+And finally, near the end of the term, *you’ll hand your pattern library off to one of your class peers who will create the **product details page** and your **checkout form page**.*
 
 Before we can get started on that stuff we need to do the UX—you’ll be graded on the completeness of your UX as expected in you IxD class.
 
@@ -35,7 +35,7 @@ There are a few primary goals to this large-scale assignment:
 
 The subject matter of the eCommerce website is completely your choice. I’d prefer that you come up with your own company and products to sell—goofy and wacky is obviously preferred.
 
-For the UX, create 1 InVision board with the following pieces of information:
+For the UX, create 1 InVision board (or Google Doc, or AI PDF [*No Word documents*]) with the following pieces of information:
 
 1. **Target audience:** Who will use your website? Be specific. Personas are encouraged.
 2. **Website goals:** What is your website trying to do? How is it trying to do that?
@@ -70,8 +70,8 @@ Below is the rubric of expectations for this project. **You will be assigned a l
 
 ## Hand in
 
-1. Create a board on InVision with all the content
-2. Submit the InVision board URL online
+1. Create a board on InVision with all the content (or Google Doc, or AI PDF)
+2. Submit the document URL online
 
 *Example URL:*
 
