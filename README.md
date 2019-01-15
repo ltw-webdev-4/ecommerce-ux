@@ -2,7 +2,6 @@
 summary: 'Create all the stuff IxD before you starting to write any code.'
 time: '8 hours'
 deliverables: '1 InVision board'
-submit: 'https://algonquin.instructure.com/courses/881406/assignments/7974744'
 ---
 
 # eCommerce UX
