@@ -70,13 +70,21 @@ Below is the rubric of expectations for this project. **You will be assigned a l
 ## Hand in
 
 1. Create a board on InVision with all the content (or Google Doc, or AI PDF)
-2. Submit the document URL online
+2. Submit the document **URL** online—I will not be downloading any files
 
 *Example URL:*
 
 ```
 https://projects.invisionapp.com/boards/MX1IZXSBQ3AY7
 ```
+
+### Submit as an Issue
+
+**After you’ve forked the `ecommerce-pattern-library` into your GitHub account—create an Issue named “UX”.** Paste the URL into the Issue’s description.
+
+*Then in the right column, down near the bottom, there’s a “Pin issue” button—this will force the Issue to the top of the Issues page.*
+
+I’ll go looking for the Issue when I’m grading.
 
 ### Discuss with the teacher
 
