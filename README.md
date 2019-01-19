@@ -80,7 +80,7 @@ https://projects.invisionapp.com/boards/MX1IZXSBQ3AY7
 
 ### Submit as an Issue
 
-**After you’ve forked the `ecommerce-pattern-library` into your GitHub account—create an Issue named “UX”.** Paste the URL into the Issue’s description.
+**After you’ve forked the `ecommerce-pattern-library`—in one of week 3’s lessons—into your GitHub account, create an Issue named “UX”.** Paste the URL into the Issue’s description.
 
 *Then in the right column, down near the bottom, there’s a “Pin issue” button—this will force the Issue to the top of the Issues page.*
 
