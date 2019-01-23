@@ -88,4 +88,4 @@ I’ll go looking for the Issue when I’m grading.
 
 ### Discuss with the teacher
 
-During the class that this is due you will show the teacher and discuss with them what you’ve created.
+During the class that this is due—if we have time—you will show the teacher and discuss with them what you’ve created.
