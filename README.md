@@ -34,7 +34,7 @@ There are a few primary goals to this large-scale assignment:
 
 The subject matter of the eCommerce website is completely your choice. I’d prefer that you come up with your own company and products to sell—goofy and wacky is obviously preferred.
 
-For the UX, create 1 InVision board (or Google Doc, or AI PDF [*No Word documents*]) with the following pieces of information:
+For the UX, create 1 InVision board (or Google Doc, or AI PDF) with the following pieces of information:
 
 1. **Target audience:** Who will use your website? Be specific. Personas are encouraged.
 2. **Website goals:** What is your website trying to do? How is it trying to do that?
