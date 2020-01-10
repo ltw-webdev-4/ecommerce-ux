@@ -1,7 +1,7 @@
 ---
 summary: 'Create all the stuff IxD before you starting to write any code.'
 time: '8 hours'
-deliverables: '1 InVision board'
+deliverables: '1 InVision board, Google Doc, etc.'
 ---
 
 # eCommerce UX
