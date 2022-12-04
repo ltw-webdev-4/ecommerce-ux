@@ -41,9 +41,9 @@ For the UX, create 1 InVision board (or Google Doc, or AI PDF) with the followin
 3. **Competitive analysis:** Find competitors; What do they do well? What do they do poorly?
 4. **Sitemap:** Include all the possible pages that an eCommerce website would need—but we’ll only be coding a few of them—show how they connect to each other
 5. **A logo:** Must work well (or adapt to) these sizes:
-    - `256px` wide, height whatever — your primary logo, displaying on the website
+    - `256px` wide, height whatever — your primary logo, displaying on the website
     - `64px` square — for mobile screens, social profile photos, bookmarks, etc.
-    - `32px`, `16px` square — for favicons.
+    - `32px`, `16px` square — for favicons.
 6. **Visual design:** Type & type scale, colours, sample components (buttons, cards, etc.), consider accessibility & performance when making decisions; Do some sample patterns in Illustrator/Photoshop/XD to give your coding direction
 7. **Wireframes:** Home page, product list page, product details page (which *you* will not be coding), checkout form page
   *These should be high-fidelity with some real text—paper is okay but use rulers*
